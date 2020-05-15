@@ -1,0 +1,22 @@
+#title {
+  background-color: #63b7af;
+
+}
+
+h1 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+.container-fluid {
+  padding: 3% 15%;
+}
+
+i .fab .fa-apple {
+  margin-right: 10px;
+}
+
+.btn {
+  margin-right: 10px;
+}
