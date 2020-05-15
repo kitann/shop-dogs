@@ -1,5 +1,5 @@
 #title {
-  background-color: #00005c;
+  background-color: #fe346e;
   color: #ffffff;
   font-family: "Baloo 2";
 
@@ -9,7 +9,7 @@
 
 h1 {
   font-family: 'Montserrat', sans-serif;
-  font-size: 3rem;
+  font-size: 3.5rem;
   line-height: 1.5;
 }
 
@@ -17,13 +17,14 @@ h1 {
   padding: 2% 15%;
 }
 
-.btn {
-  margin-right: 10px;
+/* Download Button */
+.download-button {
+  margin: 5% 3% 5% 0;
 }
 
 /* Title  */
 .navbar {
-  padding-bottom: 4.5rem;
+  padding: 0 0 4.5rem;
 }
 
 .nav-item {
@@ -43,5 +44,27 @@ h1 {
 /* Google Map Frame */
 iframe {
   border-radius: 3%;
+}
 
+/* Section 2 Features */
+
+#features {
+  text-align: center;
+  margin: 5% 10% 0;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.5rem;
+}
+
+/* Footnote on Section 2 */
+.notes {
+  color: #8f8f8f;
+}
+
+/* Icons from Fontawesome */
+
+.icons {
+  margin-bottom: 20px;
 }
