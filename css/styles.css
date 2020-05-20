@@ -54,7 +54,7 @@ iframe {
 
 h2 {
   font-family: 'Montserrat', sans-serif;
-  font-size: 2.5rem;
+  font-size: 2.0rem;
   line-height: 1.5;
 }
 
@@ -80,27 +80,21 @@ h3 {
 }
 
 /* Section 3 Testimonials */
-#testimonials {
-  padding: 7% 15%;
+#testimonial {
+
   text-align: center;
-  background-color: #f40552;
+  background-color: #5c2a9d;
   color: #fff;
 }
 
-/* Testimonial Location and Map icon */
-em {
-  margin-left: 15px;
-  font-size: 1rem;
-}
-
-.testimonial-location {
-  margin: 0 0 0 10px;
-}
-
 .testimonial-image {
-  width: 25%;
-  text-align: center;
-  border-radius: 50%
+  width: 20%;
+  border-radius: 100%;
+  margin: 20px;
+}
+
+.carousel-item {
+  padding: 7% 15%;
 }
 
 
