@@ -1,5 +1,9 @@
+body {
+  background-color: #f1f3f4;
+}
+
 #title {
-  background-color: #f40552;
+  background-color: #333333;
   color: #ffffff;
   font-family: "Baloo 2";
 }
@@ -83,7 +87,7 @@ h3 {
 #testimonial {
 
   text-align: center;
-  background-color: #5c2a9d;
+  background-color: #035aa6;
   color: #fff;
 }
 
